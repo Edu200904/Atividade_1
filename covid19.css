@@ -1,0 +1,60 @@
+body {
+    background-image: url(https://1.bp.blogspot.com/-tZmV6PByDNk/VY6v21wNccI/AAAAAAAAHCk/PVCRRZR9Fio/s280/fundo-verde-claro%2B%25281%2529.gif);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+    font-size: 17px;
+}
+#higherbar-container {
+    text-align: center;
+    color: rgb(185, 33, 33);
+    text-shadow: 0.8px 0.8px 0.8px rgb(185, 33, 33);
+    overflow-x: hidden;
+    padding-top: 50px;
+    padding: 10px 10px 10px 16px;
+    text-decoration: none;
+    display: block;
+    border-top: 10px solid rgb(218, 98, 98);
+    border-bottom: 10px solid rgb(218, 98, 98);
+    border-left: 10px solid rgb(218, 98, 98);
+    border-right: 10px solid rgb(218, 98, 98);
+    -webkit-transition-duration: 2s;
+}
+#lowerbar-container {
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    color: rgb(230, 230, 230);
+    text-shadow: 0.8px 0.8px 0.8px rgb(185, 33, 33);
+    background-color: rgb(221, 51, 51);
+    overflow-x: hidden;
+    padding-top: 50px;
+    padding: 10px 10px 10px 16px;
+    text-decoration: none;
+    display: block;
+    border-top: 5px solid rgb(212, 99, 99);
+    border-bottom: 5px solid rgb(209, 74, 74);
+    -webkit-transition-duration: 2s;
+}
+li {
+    list-style-type: none;
+}
+
+h3 {
+    color: rgb(212, 54, 54);
+    text-shadow: 0.8px 0.8px 0.8px rgb(212, 54, 54);
+}
+ .image1 {
+    border-image-width: 10px;
+    text-align: center;
+ }
+ .image2 {
+    border-image-width: 10px;
+    text-align: center;
+ }
+ .image3 {
+    border-image-width: 10px;
+    text-align: center;
+ }
+ 
